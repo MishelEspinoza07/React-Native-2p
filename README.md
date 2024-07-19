@@ -15,7 +15,8 @@ Este proyecto está creado con Expo CLI y aquí encontrarás las instrucciones p
 Clona este repositorio en tu computadora local:
 ```sh
 git https://github.com/MishelEspinoza07/React-Native-2p.git
-cd SegundoParcial
+cd React-Native-2p
+
 ```
 ## Para Frontend
 ### 1. Realizar los siguientes comandos
